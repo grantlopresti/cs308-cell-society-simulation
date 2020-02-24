@@ -11,7 +11,7 @@
     <gridHeight>80</gridHeight>
     <gridType>triangular</gridType>
     <isToroidal>true</isToroidal>
-    <neighborhoodType>4</neighborhoodType>
+    <neighborhoodType>1</neighborhoodType>
     <gridRows>
         <row0>1 2 1 2 2 2 1 1 1 2 1 2 1 1 0 1 1 2 1 2 1 1 1 1 1 1 2 1 2 2 0 2 1 1 1 1 2 2 2 2 1 1 0 1 0 2 1 1 2 1 2 2 1 1 1 1 1 2 0 2 0 2 2 1 1 2 1 0 1 0 1 2 2 2 2 2 1 0 1 1 </row0>
         <row1>1 2 0 0 2 0 1 1 1 1 2 2 1 1 2 2 2 1 1 2 1 1 1 0 1 0 1 0 2 1 1 1 2 2 1 1 0 2 1 1 2 2 2 1 2 2 2 1 1 2 1 2 2 1 1 2 2 1 1 1 1 1 2 1 1 1 2 1 1 1 1 1 1 1 2 2 2 0 0 2 </row1>

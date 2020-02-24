@@ -9,9 +9,9 @@
     </globalVars>
     <gridWidth>20</gridWidth>
     <gridHeight>20</gridHeight>
-    <gridType>triangular</gridType>
-    <toroidalGrid>false</toroidalGrid>
-    <neighborhoodType>4</neighborhoodType>
+    <gridType>rectangular</gridType>
+    <toroidalGrid>true</toroidalGrid>
+    <neighborhoodType>1</neighborhoodType>
     <gridRows>
         <row0>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 </row0>
         <row1>1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 </row1>
